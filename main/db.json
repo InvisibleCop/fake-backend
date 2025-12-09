@@ -1,0 +1,44 @@
+{
+  "data": [
+    {
+      "id": 25,
+      "name": "Pikachu",
+      "hp": 35,
+      "atk": 55,
+      "def": 40,
+      "spatk": 50,
+      "spdef": 50,
+      "speed": 90
+    },
+    {
+      "id": 470,
+      "name": "Leafeon",
+      "hp": 65,
+      "atk": 110,
+      "def": 130,
+      "spatk": 60,
+      "spdef": 65,
+      "speed": 95
+    },
+    {
+      "id": 475,
+      "name": "Gallade",
+      "hp": 68,
+      "atk": 125,
+      "def": 65,
+      "spatk": 65,
+      "spdef": 115,
+      "speed": 80
+    },
+    {
+      "id": 937,
+      "name": "Ceruledge",
+      "hp": 75,
+      "atk": 125,
+      "def": 80,
+      "spatk": 60,
+      "spdef": 110,
+      "speed": 85
+    }
+  ]
+}
